@@ -234,5 +234,3 @@ else{
     document.write("The Entered number is string or Wrong");
 }
 // Convert the input from a string to a number. When a user types a number in the prompt, it's captured as a string. To perform calculations or comparisons, you need this value in a numeric form.
-
-let data="ghello"
